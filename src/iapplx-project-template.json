@@ -1,0 +1,37 @@
+{
+  "name": "iapplx-project-template",
+  "dataProperties":[
+     {
+        "id":"custom",
+        "type":"JSON",
+        "value":{
+        }
+     }
+  ],
+  "inputProperties": [
+    {
+      "id":"csdh",
+      "type":"JSON",
+      "value":{
+      }
+    }
+  ],
+  "presentationHtmlReference":{
+     "link":"https://localhost/iapps/iapplx-project-template/index.html"
+  },
+  "configurationProcessorReference": {
+    "link": "https://localhost/mgmt/shared/iapp/processors/iapplx-project-template-js"
+  },
+  "statsProcessorReference": {
+    "link": ""
+  },
+  "auditProcessorReference": {
+    "link": ""
+  },
+  "audit": {
+    "intervalSeconds": 0,
+    "policy": "NOTIFY_ONLY"
+  },
+  "configProcessorTimeoutSeconds": 30,
+  "state": "TEMPLATE"
+}
