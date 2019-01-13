@@ -1,16 +1,16 @@
 {
   "name": "iapplx-project-template",
   "dataProperties":[
-     {
-        "id":"custom",
-        "type":"JSON",
-        "value":{
-        }
-     }
+    {
+      "id":"custom",
+      "type":"JSON",
+      "value":{
+      }
+    }
   ],
   "inputProperties": [
     {
-      "id":"csdh",
+      "id":"iapplx-project-template",
       "type":"JSON",
       "value":{
       }
